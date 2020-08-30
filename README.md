@@ -12,4 +12,4 @@ CS:   10 |
 DC:   7 |
 RST:  8
 
-3- 
+3- connect the signal pin of the infrared sensor to the pin 4 on the Arduino board.
